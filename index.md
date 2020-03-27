@@ -2,7 +2,9 @@
 
 ### Demo Video
 
-insert video here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx7HSWD5dwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+This is a random video for testing.
 
 ### Try it out yourself
 
