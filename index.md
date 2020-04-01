@@ -35,8 +35,8 @@ Accordingly, the [repository](https://github.com/UFrameIT) splits the framework 
 
 #### Try it out yourself
 
-1. Get the latest [Release](https://github.com/UFrameIT/UFrameIT/releases).
-2. Download and extract the ZIP file.
+1. Go to the latest [Release](https://github.com/UFrameIT/UFrameIT/releases).
+2. Download and extract the Frameworld1 ZIP file.
 3. Open the Build folder and start FrameWorld1.exe
 
 #### [The FrameIT Team](people.md)
