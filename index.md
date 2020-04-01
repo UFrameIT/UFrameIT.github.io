@@ -30,7 +30,8 @@ Accordingly, the [repository](https://github.com/UFrameIT) splits the framework 
 
 #### The 2016 Version
 
-<video src="https://gl.kwarc.info/FrameIT/CICM16-WiP/-/blob/master/Screen%2005-12-2016%2020-17-23.avi" width="320" height="200" controls preload></video>
+<video src="https://github.com/UFrameIT/UFrameIT.github.io/blob/master/FrameITVideoOld.mp4" width="320" height="200" controls preload></video>
+
 
 
 #### Try it out yourself
