@@ -30,7 +30,7 @@ Accordingly, the [repository](https://github.com/UFrameIT) splits the framework 
 
 #### The 2016 Version
 
-<video src="https://github.com/UFrameIT/UFrameIT.github.io/blob/master/FrameITVideoOld.mp4?raw=true" width="320" height="200" controls preload></video>
+<video src="https://github.com/UFrameIT/UFrameIT.github.io/blob/master/FrameITVideoOld.mp4?raw=true" width="480" height="300" controls preload></video>
 
 
 
