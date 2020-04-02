@@ -1,17 +1,12 @@
 ## Detangling Knowledge Management from Game Design in Serious Games
 
-UFrameIT is a framework for building serious games by combining the exploration of virtual worlds with logic-based knowledge management. 
+UFrameIT is a framework for building serious games by combining the exploration of virtual
+worlds with logic-based knowledge management (... [details](framework))
 
 The UFrameIT project initiated by the [KWARC Research Group](https://kwarc.info) at
-[FAU Erlangen-Nürnberg](https://fau.de) [history](history). 
+[FAU Erlangen-Nürnberg](https://fau.de) (...[history](history), [team](people.md)). 
 
 More information is also available at the [KWARC project page](https://kwarc.info/systems/frameit) and within our [publications](https://kwarc.github.io/bibs/frameit/).
-
-#### The Framework
-In the FrameIT method, we use [MMT](https://kwarc.info/projects/mmt) theory graphs to represent the background knowledge
-and [MMT](https://kwarc.info/projects/mmt) pushouts to compute the application of knowledge in concrete situations, whereas we use Unity to create the virtual world.
-
-Accordingly, the [repository](https://github.com/UFrameIT) splits the framework implementation into two parts: the [Unity part](https://github.com/UFrameIT/UFrameIT) and the [server](https://github.com/UFrameIT/mmt-server), which acts as an interface to the [MMT system](https://github.com/UniFormal/MMT) and thus the [formalized knowledge](https://gl.mathhub.info/FrameIT).
 
 #### Demo Video
 
@@ -25,9 +20,6 @@ Accordingly, the [repository](https://github.com/UFrameIT) splits the framework 
 1. Go to the latest [Release](https://github.com/UFrameIT/UFrameIT/releases).
 2. Download and extract the Frameworld1 ZIP file.
 3. Open the Build folder and start FrameWorld1.exe
-
-#### [The FrameIT Team](people.md)
-
 
 #### Support or Contact
 
