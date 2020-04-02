@@ -8,7 +8,7 @@ The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98D2PYgflPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[... more videos](demos)
+[... more videos](videos)
 
 ## Try it out yourself
 
