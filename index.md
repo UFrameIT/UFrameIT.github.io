@@ -4,14 +4,13 @@ UFrameIT is a framework for building serious games by combining the exploration 
 worlds with logic-based knowledge management (... [details](framework), [publications](https://kwarc.github.io/bibs/frameit/))
 
 The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the [KWARC Research Group](https://kwarc.info) at
-[FAU Erlangen-Nürnberg](https://fau.de) (...[history](history), [team](people.md)). 
+[FAU Erlangen-Nürnberg](https://fau.de) (...[history](history), [team](people)). 
 
 #### Demo Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98D2PYgflPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### The 2016 Version
-<video src="https://github.com/UFrameIT/UFrameIT.github.io/blob/master/FrameITVideoOld.mp4?raw=true" width="480" height="300" controls preload></video>
+[... more videos](demos)
 
 #### Try it out yourself
 
