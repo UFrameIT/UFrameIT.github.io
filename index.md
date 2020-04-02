@@ -1,12 +1,10 @@
 ## Detangling Knowledge Management from Game Design in Serious Games
 
 UFrameIT is a framework for building serious games by combining the exploration of virtual
-worlds with logic-based knowledge management (... [details](framework))
+worlds with logic-based knowledge management (... [details](framework), [publications](https://kwarc.github.io/bibs/frameit/))
 
-The UFrameIT project initiated by the [KWARC Research Group](https://kwarc.info) at
+The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the [KWARC Research Group](https://kwarc.info) at
 [FAU Erlangen-Nürnberg](https://fau.de) (...[history](history), [team](people.md)). 
-
-More information is also available at the [KWARC project page](https://kwarc.info/systems/frameit) and within our [publications](https://kwarc.github.io/bibs/frameit/).
 
 #### Demo Video
 
