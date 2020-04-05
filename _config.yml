@@ -1,5 +1,13 @@
-remote_theme: mattgraham/leapday@a5ceba4f0650e24397333435c9146aa49037b76a
 project_title: The FrameIT Project
 project_tagline: Detangling Knowledge Management from Game Design in Serious Games
 description: The FrameIT Project — Detangling Knowledge Management from Game Design in Serious Games
 logo: ./img/frameworld-1-screenshot.png
+
+remote_theme: mattgraham/leapday@a5ceba4f0650e24397333435c9146aa49037b76a
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
