@@ -14,3 +14,9 @@ defaults:
       path: ""
     values:
       layout: "page"
+
+plugins:
+  - jekyll-paginate
+paginate:            10
+paginate_path:       "/news/page:num/"
+blog_path:           "/news/"

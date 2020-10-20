@@ -4,61 +4,40 @@
 {% endcomment %}
 
 {% assign paginator = paginator %}
-
-<ul class="pagination">
-    
+<div style="text-align: center;">
     <!-- The previous page -->
     {% if paginator.previous_page %}
-        <li class="waves-effect">
-            <a href="{{ site.baseurl }}{{paginator.previous_page_path}}">
-                <i class="material-icons">chevron_left</i>
-            </a>
-        </li>
+        <a href="{{ site.baseurl }}{{paginator.previous_page_path}}">
+            &#xab;
+        </a>
     {% else %}
-        <li class="disabled">
-            <a href="#!">
-                <i class="material-icons">chevron_left</i>
-            </a>
-        </li>
+        &#xab;
     {% endif %}
-    
+    &nbsp;
+
     <!-- Show all the pages -->
     {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-            <li class='active'>
-                <a href="#!">
-                    {{page}}
-                </a>
-            </li>
+            {{page}}
         {% elsif page == 1 %}
-            <li class="waves-effect">
-                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
-                    {{page}}
-                </a>
-            </li>
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+                {{page}}
+            </a>
         {% else %}
-            <li class="waves-effect">
-                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
-                    {{page}}
-                </a>
-            </li>
+            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
+                {{page}}
+            </a>
         {% endif %}
+        &nbsp;
     {% endfor %}
     
     
     <!-- The next page -->
     {% if paginator.next_page %}
-        <li class="waves-effect">
-            <a href="{{ site.baseurl }}{{paginator.next_page_path}}">
-                <i class="material-icons">chevron_right</i>
-            </a>
-        </li>
+        <a href="{{ site.baseurl }}{{paginator.next_page_path}}">
+            &#xbb;
+        </a>
     {% else %}
-        <li class="disabled">
-            <a href="#!">
-                <i class="material-icons">chevron_right</i>
-            </a>
-        </li>
+        &#xbb;
     {% endif %}
-    
-</ul>
+</div>
