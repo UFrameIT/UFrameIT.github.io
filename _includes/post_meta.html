@@ -1,0 +1,19 @@
+{% comment %}
+    Shows meta information about a post. 
+    Expects the 'post' to show as an argument. 
+{% endcomment %}
+
+by {{include.post.author}}
+on
+
+    {% if include.post.date %}
+        {{ include.post.date | date_to_string }}
+    {% else %}
+        There is no date
+    {% endif %}
+
+in
+
+{% for tag in include.post.tags %}
+        {{tag}}
+{% endfor %}

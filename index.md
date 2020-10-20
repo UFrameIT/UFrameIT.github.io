@@ -26,14 +26,14 @@ Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits 
 ## FrameIT Team
 
 ### Current Members
-* [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead) 
-* Benjamin Bösl ([mmt-server][mmt-server], formalizations of [FrameWorld v1][FrameWorld])
+* [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
 * [Richard Marcus](https://kwarc.info/people/rmarcus/) (Unity framework in [UFrameIT][UFrameIT])
-* [Navid Roux](https://kwarc.info/people/nroux/) (mostly involved in discussions, future ideas on formalizations, partly [mmt-server][mmt-server])
-* John Schihada (Unity gadgets in [UFrameIT][UFrameIT])
+* [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server] and MMT formalizations)
+* John Schihada (Unity gadgets in [UFrameIT][UFrameIT], [mmt-server][mmt-server])
 
 ### Former Members 
-* Denis Rochau (first Unreal-based FrameIT implementation)
+* Benjamin Bösl ([mmt-server][mmt-server], MMT formalizations of [FrameWorld v1][FrameWorld]) 
+* Denis Rochau (first Unreal-based FrameIT implementation) 
 
 ### Advisors
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] Guru)
@@ -65,7 +65,18 @@ After a long period, where students got frustrated with the complexities of the 
 ### The 2016 Version
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GWuySbzJUwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Support and Contact
 
-Feel free to raise an issue at our [UFrameIT/UFrameIT repository](https://github.com/UFrameIT/UFrameIT/issues).
+To contact a human: reach out to [Michael Kohlhase](https://kwarc.info/kohlhase).
+
+Feel free to raise an issue at our
+[UFrameIT/UFrameIT repository](https://github.com/UFrameIT/UFrameIT/issues) or a question
+on our [MatterMost FrameIT channel](https://mattermost.kwarc.info/kwarc/channels/frameit).
+
+## Recent News ([see all](/news/))
+ 
+<ul class="collection">
+    {% for post in site.posts limit:5 %}
+        {% include post_link.html post=post %}
+    {% endfor %}
+</ul>

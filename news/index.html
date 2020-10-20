@@ -1,0 +1,15 @@
+---
+layout: default
+title: News
+source: _posts/
+---
+
+<div class="posts">
+    <ul class="collection">
+        {% for post in paginator.posts %}
+            {% include post_link.html post=post %}
+        {% endfor %}
+    </ul>
+</div>
+
+{% include pagination.html paginator=paginator %}

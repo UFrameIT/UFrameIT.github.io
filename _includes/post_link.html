@@ -1,0 +1,14 @@
+{% comment %}
+    Generates a link to a single post. 
+    Expects the page representing the post as a 'post' variable. 
+{% endcomment %}
+
+<li class="collection-item">
+    <a href="{{include.post.url}}" class="title">
+        {{include.post.title}} {{include.post.subtitle}}
+    </a>
+    
+    <div>
+        {% include post_meta.html post=include.post %}
+    </div>
+</li>
