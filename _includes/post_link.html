@@ -7,8 +7,5 @@
     <a href="{{include.post.url}}" class="title">
         {{include.post.title}} {{include.post.subtitle}}
     </a>
-    
-    <div>
-        {% include post_meta.html post=include.post %}
-    </div>
+    {% include post_meta.html post=include.post %}
 </li>
