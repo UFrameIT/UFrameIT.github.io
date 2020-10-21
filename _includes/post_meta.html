@@ -3,9 +3,5 @@
     Expects the 'post' to show as an argument. 
 {% endcomment %}
 
-({% if include.post.date %}
-        {{ include.post.date | date_to_string }}
-    {% else %}
-        There is no date
-    {% endif %}
+({% if include.post.date %}{{ include.post.date | date_to_string }}{% endif %}
 by <a href="https://kwarc.info/people/{{include.post.author}}/">{{include.post.author}}</a>) 
