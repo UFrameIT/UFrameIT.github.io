@@ -33,8 +33,8 @@ framework implementation into two parts:
 A particular UFrameIT game like instantiates the framework with
 * a 3D World that acts as a game setting and additional gadgets for interacting with it,
   and 
-* a [MMT](https://kwarc.info/projects/mmt) formalization of the learning objects conveyed
-  by the  game. 
+* a [MMT](https://kwarc.info/projects/mmt) formalization of the concepts conveyed by the
+  game and the scrolls that describe them.
 
 The latter builds on builds on the
 [Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) - a general-purpose
