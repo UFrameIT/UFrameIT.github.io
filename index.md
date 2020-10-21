@@ -24,21 +24,23 @@ and [MMT](https://kwarc.info/projects/mmt) pushouts to compute the application o
 
 Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits the
 framework implementation into two parts:
-* the [Unity part](https://github.com/UFrameIT/UFrameIT) and
+* the [Unity part](https://github.com/UFrameIT/UFrameIT), which supplies an infrastructure
+  for managing and applying scrolls and gadgets for exploring the 3D world, and
 * the [server](https://github.com/UFrameIT/mmt-server), which acts as an interface to the
 [MMT system](https://github.com/UniFormal/MMT) and the
 [formalized knowledge](https://gl.mathhub.info/FrameIT)
 
-A particular UFrameIT game like may extend/instantiate the framework with
-* a 3D World and additional gadgets for interacting with it
+A particular UFrameIT game like instantiates the framework with
+* a 3D World that acts as a game setting and additional gadgets for interacting with it,
+  and 
 * a [MMT](https://kwarc.info/projects/mmt) formalization of the learning objects conveyed
-  by the  game 
+  by the  game. 
 
 The latter builds on builds on the
 [Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) - a general-purpose
-formalization of elementary math developed by the KWARC group.
+formalization of elementary math developed and maintained by the KWARC group.
 
-## FrameIT Team
+## The FrameIT Team
 
 ### Current Members
 * [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
