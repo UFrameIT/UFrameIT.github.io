@@ -17,12 +17,26 @@ You can find built executables here: [UFrameIT releases](https://github.com/UFra
 
 Currently, we only have a distributable package for Windows. Other operating systems are already supported under the hood, but are still awaiting packaging.
 
-## The UFrameIT Framework
+## The UFrameIT Framework and Serious Games
 
 In the FrameIT method, we use [MMT](https://kwarc.info/projects/mmt) theory graphs to represent the background knowledge
 and [MMT](https://kwarc.info/projects/mmt) pushouts to compute the application of knowledge in concrete situations, whereas we use Unity to create the virtual world.
 
-Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits the framework implementation into two parts: the [Unity part](https://github.com/UFrameIT/UFrameIT) and the [server](https://github.com/UFrameIT/mmt-server), which acts as an interface to the [MMT system](https://github.com/UniFormal/MMT) and thus the [formalized knowledge](https://gl.mathhub.info/FrameIT).
+Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits the
+framework implementation into two parts:
+* the [Unity part](https://github.com/UFrameIT/UFrameIT) and
+* the [server](https://github.com/UFrameIT/mmt-server), which acts as an interface to the
+[MMT system](https://github.com/UniFormal/MMT) and the
+[formalized knowledge](https://gl.mathhub.info/FrameIT)
+
+A particular UFrameIT game like may extend/instantiate the framework with
+* a 3D World and additional gadgets for interacting with it
+* a [MMT](https://kwarc.info/projects/mmt) formalization of the learning objects conveyed
+  by the  game 
+
+The latter builds on builds on the
+[Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) - a general-purpose
+formalization of elementary math developed by the KWARC group.
 
 ## FrameIT Team
 
@@ -32,14 +46,14 @@ Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits 
 * [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server] and MMT formalizations)
 * John Schihada (Unity gadgets in [UFrameIT][UFrameIT], [mmt-server][mmt-server])
 
-### Former Members 
-* Benjamin Bösl ([mmt-server][mmt-server], MMT formalizations of [FrameWorld v1][FrameWorld]) 
-* Denis Rochau (first Unreal-based FrameIT implementation) 
-
 ### Advisors
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
 * [Prof. Dr.-Ing. Marc Stamminger](https://www.lgdv.tf.fau.de/person/marc-stamminger/)
   (Graphics/Virtual Worlds)
+
+### Former Members 
+* Benjamin Bösl ([mmt-server][mmt-server], MMT formalizations of [FrameWorld v1][FrameWorld]) 
+* Denis Rochau (first Unreal-based FrameIT implementation) 
 
 [FrameWorld]: https://gl.mathhub.info/FrameIT/frameworld
 [MMT]: https://uniformal.github.io/
@@ -81,3 +95,8 @@ on our [MatterMost FrameIT channel](https://mattermost.kwarc.info/kwarc/channels
         {% include post_link.html post=post %}
     {% endfor %}
 </ul>
+
+<!--  LocalWords:  frameit-team frameborder allowfullscreen formalized Navid Schihada
+ -->
+<!--  LocalWords:  Stamminger Bösl endfor
+ -->
