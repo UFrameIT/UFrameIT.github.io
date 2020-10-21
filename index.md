@@ -4,7 +4,7 @@ UFrameIT is a framework for building serious games by combining the exploration 
 worlds with logic-based knowledge management (... [details](#the-uframeit-framework), [publications](https://kwarc.github.io/bibs/frameit/))
 
 The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the [KWARC Research Group](https://kwarc.info) at
-[FAU Erlangen-Nürnberg](https://fau.de) (...[history](#history), [team](#frameit-team)). 
+[FAU Erlangen-Nürnberg](https://fau.de) (... [history](#history), [team](#frameit-team), [news](#recent-news-see-all)). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98D2PYgflPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -36,7 +36,7 @@ Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits 
 * Denis Rochau (first Unreal-based FrameIT implementation) 
 
 ### Advisors
-* [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] Guru)
+* [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
 * [Prof. Dr.-Ing. Marc Stamminger](https://www.lgdv.tf.fau.de/person/marc-stamminger/)
   (Graphics/Virtual Worlds)
 

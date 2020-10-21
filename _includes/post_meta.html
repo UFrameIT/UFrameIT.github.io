@@ -2,8 +2,7 @@
     Shows meta information about a post. 
     Expects the 'post' to show as an argument. 
 {% endcomment %}
-
-by {{include.post.author}}
+by <a href="https://kwarc.info/people/{{include.post.author}}/">{{include.post.author}}</a> 
 on
 
     {% if include.post.date %}
@@ -11,9 +10,3 @@ on
     {% else %}
         There is no date
     {% endif %}
-
-in
-
-{% for tag in include.post.tags %}
-        {{tag}}
-{% endfor %}
