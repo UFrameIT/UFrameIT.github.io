@@ -74,7 +74,7 @@ In 2015/6, Denis Rochau gave a complete implementation based on the [Unreal Engi
 
 #### UFrameIT at [FAU Erlangen-Nürnberg](https://fau.de)
 
-After a long period, where students got frustrated with the complexities of the unreal engine and its documentation, a group for FAU students got together in late 2019 to restart the project using the [Unity game engine](https://unity.com) as a basis. The UFrameIT framework is the result of this effort. 
+After a long period, where students with graphics and game development expertise didn't find their way to FrameIT, the cooperation with the [Chair of Visual Computing](https://www.lgdv.tf.fau.de/) brought together a group of FAU students in late 2019 to restart the project. The UFrameIT framework using the [Unity game engine](https://unity.com) as a basis is the result of this effort. 
 
 ## Demo Videos
 
