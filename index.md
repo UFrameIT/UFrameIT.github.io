@@ -40,7 +40,13 @@ The latter builds on builds on the
 [Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) - a general-purpose
 formalization of elementary math developed and maintained by the KWARC group.
 
+## UFrameIT Development
+
+The UFrameIT framework and games based on it are open source. They are [developed publically
+on GitHub](https://github.com/UFrameIT) ([issues](https://github.com/UFrameIT/UFrameIT/issues), [milestones](https://github.com/UFrameIT/UFrameIT/milestones))
+
 ## The FrameIT Team
+We are an open team of developers, please feel free to join.
 
 ### Current Members
 * [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
