@@ -1,11 +1,11 @@
 ## Overview
 
 FrameIT is a framework for building serious games by combining the exploration of virtual
-worlds with logic-based knowledge management (... [details](#the-uframeit-framework),
-[publications](https://kwarc.github.io/bibs/frameit/), [news](#recent-news-see-all))
+worlds with logic-based knowledge management (... [details](#the-uframeit-framework-and-serious-games),
+[publications](https://kwarc.github.io/bibs/frameit/), [news](#recent-news))
 
 The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the [KWARC Research Group](https://kwarc.info) at
-[FAU Erlangen-Nürnberg](https://fau.de) (... [history](#history), [team](#frameit-team), [news](#recent-news-see-all)). 
+[FAU Erlangen-Nürnberg](https://fau.eu) (... [news](#recent-news), [team](#uframeit-development--team), [history](#history)). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98D2PYgflPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,6 +24,7 @@ The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the 
 ## Try it out yourself
 
 Built executables of previous releases can be found here: [UFrameIT releases](https://github.com/UFrameIT/UFrameIT/releases).
+
 Currently, we only have a distributable package for Windows. Other operating systems are already supported under the hood, but are still awaiting packaging.
 
 ## The UFrameIT Framework and Serious Games
