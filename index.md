@@ -52,6 +52,8 @@ formalization of elementary math developed and maintained by the KWARC group.
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
 * [Prof. Dr.-Ing. Marc Stamminger](https://www.lgdv.tf.fau.de/person/marc-stamminger/)
   (Graphics/Virtual Worlds)
+* [Prof. Dr. Andrea Kohlhase](https://www.hnu.de/andrea-kohlhase/)
+  (Interaction Design and UX)
 
 ### Former Members 
 * Benjamin Bösl ([mmt-server][mmt-server], MMT formalizations of [FrameWorld v1][FrameWorld]) 
