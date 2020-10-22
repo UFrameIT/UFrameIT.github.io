@@ -46,7 +46,7 @@ A particular UFrameIT game instantiates the framework with
   game and the scrolls that describe them.
 
 The latter builds on builds on the
-[Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) &emdash; a general-purpose
+[Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) &mdash; a general-purpose
 formalization of elementary math developed and maintained by the KWARC group.
 
 ## UFrameIT Development & Team
