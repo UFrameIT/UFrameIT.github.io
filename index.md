@@ -1,6 +1,6 @@
 ## Overview
 
-UFrameIT is a framework for building serious games by combining the exploration of virtual
+FrameIT is a framework for building serious games by combining the exploration of virtual
 worlds with logic-based knowledge management (... [details](#the-uframeit-framework),
 [publications](https://kwarc.github.io/bibs/frameit/), [news](#recent-news-see-all))
 
@@ -11,7 +11,7 @@ The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the 
 
 [... more videos](#demo-videos)
 
-## Recent News ([see all](/news/))
+## Recent News
  
 <ul class="collection">
     {% for post in site.posts limit:5 %}
@@ -19,10 +19,11 @@ The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the 
     {% endfor %}
 </ul>
 
+[→ see all](/news/))
+
 ## Try it out yourself
 
-You can find built executables here: [UFrameIT releases](https://github.com/UFrameIT/UFrameIT/releases).
-
+Built executables of previous releases can be found here: [UFrameIT releases](https://github.com/UFrameIT/UFrameIT/releases).
 Currently, we only have a distributable package for Windows. Other operating systems are already supported under the hood, but are still awaiting packaging.
 
 ## The UFrameIT Framework and Serious Games
@@ -38,22 +39,21 @@ framework implementation into two parts:
 [MMT system](https://github.com/UniFormal/MMT) and the
 [formalized knowledge](https://gl.mathhub.info/FrameIT)
 
-A particular UFrameIT game like instantiates the framework with
+A particular UFrameIT game instantiates the framework with
 * a 3D World that acts as a game setting and additional gadgets for interacting with it,
   and 
 * an [MMT](https://kwarc.info/projects/mmt) formalization of the concepts conveyed by the
   game and the scrolls that describe them.
 
 The latter builds on builds on the
-[Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) - a general-purpose
+[Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) &emdash; a general-purpose
 formalization of elementary math developed and maintained by the KWARC group.
 
-## UFrameIT Development
+## UFrameIT Development & Team
 
 The UFrameIT framework and games based on it are open source. They are [developed publically
 on GitHub](https://github.com/UFrameIT) ([issues](https://github.com/UFrameIT/UFrameIT/issues), [milestones](https://github.com/UFrameIT/UFrameIT/milestones))
 
-## The FrameIT Team
 We are an open team of developers, please feel free to join.
 
 ### Current Members
