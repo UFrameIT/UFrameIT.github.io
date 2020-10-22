@@ -19,7 +19,7 @@ The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the 
     {% endfor %}
 </ul>
 
-[→ see all](/news/))
+[→ see all](/news/)
 
 ## Try it out yourself
 
