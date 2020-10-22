@@ -11,6 +11,14 @@ The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the 
 
 [... more videos](#demo-videos)
 
+## Recent News ([see all](/news/))
+ 
+<ul class="collection">
+    {% for post in site.posts limit:5 %}
+        {% include post_link.html post=post %}
+    {% endfor %}
+</ul>
+
 ## Try it out yourself
 
 You can find built executables here: [UFrameIT releases](https://github.com/UFrameIT/UFrameIT/releases).
@@ -33,7 +41,7 @@ framework implementation into two parts:
 A particular UFrameIT game like instantiates the framework with
 * a 3D World that acts as a game setting and additional gadgets for interacting with it,
   and 
-* a [MMT](https://kwarc.info/projects/mmt) formalization of the concepts conveyed by the
+* an [MMT](https://kwarc.info/projects/mmt) formalization of the concepts conveyed by the
   game and the scrolls that describe them.
 
 The latter builds on builds on the
@@ -67,7 +75,7 @@ We are an open team of developers, please feel free to join.
 
 [FrameWorld]: https://gl.mathhub.info/FrameIT/frameworld
 [MMT]: https://uniformal.github.io/
-[mmt-server]: https://github.com/UFrameIT/mmt-server
+[mmt-server]: https://github.com/UniFormal/MMT/tree/devel/src/frameit-mmt
 [UFrameIT]: https://github.com/UFrameIT/UFrameIT
 
 ## History
@@ -96,15 +104,8 @@ To contact a human: reach out to [Michael Kohlhase](https://kwarc.info/kohlhase)
 
 Feel free to raise an issue at our
 [UFrameIT/UFrameIT repository](https://github.com/UFrameIT/UFrameIT/issues) or a question
-on our [MatterMost FrameIT channel](https://mattermost.kwarc.info/kwarc/channels/frameit).
-
-## Recent News ([see all](/news/))
- 
-<ul class="collection">
-    {% for post in site.posts limit:5 %}
-        {% include post_link.html post=post %}
-    {% endfor %}
-</ul>
+on our [Mattermost FrameIT channel](https://mattermost.kwarc.info/kwarc/channels/frameit).
+The latter is public, too, and you can easily join by authenticating with your GitHub account once.
 
 <!--  LocalWords:  frameit-team frameborder allowfullscreen formalized Navid Schihada
  -->
