@@ -32,11 +32,10 @@ Built executables of previous releases can be found here: [UFrameIT releases](ht
 In the FrameIT method, we use [MMT](https://kwarc.info/projects/mmt) theory graphs to encode and represent the knowledge about the world and its logic, whereas we use Unity to create and visualize the virtual world.
 The [MMT](https://kwarc.info/projects/mmt) system can then reason about the world and apply the knowledge in concrete situations.
 
-Accordingly, the [UFrameIT group on GitHub](https://github.com/UFrameIT) splits the
-framework implementation into two parts:
+Accordingly, the implementation is split into two parts:
 * the [Unity part](https://github.com/UFrameIT/UFrameIT), which supplies an infrastructure
   for managing and applying scrolls and gadgets for exploring the 3D world, and
-* the [server](https://github.com/UFrameIT/mmt-server), which acts as an interface to the
+* the [server](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel), which acts as an interface to the
 [MMT system](https://github.com/UniFormal/MMT) and the
 [formalized knowledge](https://gl.mathhub.info/FrameIT)
 
