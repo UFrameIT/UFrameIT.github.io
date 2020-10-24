@@ -5,7 +5,7 @@ worlds with logic-based knowledge management (... [details](#the-uframeit-framew
 [publications](https://kwarc.github.io/bibs/frameit/), [news](#recent-news))
 
 The [UFrameIT project](https://kwarc.info/systems/frameit) was initiated by the [KWARC Research Group](https://kwarc.info) at
-[FAU Erlangen-Nürnberg](https://fau.eu) (... [news](#recent-news), [team](#uframeit-development--team), [history](#history)) to advance the FrameIT method and to create an appropiate framework for it.
+[FAU Erlangen-Nürnberg](https://fau.eu) (... [news](#recent-news), [team](#uframeit-development--team), [history](#history)) to advance the FrameIT method and to create an appropriate framework for it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98D2PYgflPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,38 +29,41 @@ Built executables of previous releases can be found here: [UFrameIT releases](ht
 
 ## The UFrameIT Framework and Serious Games
 
-In the FrameIT method, we use [MMT](https://kwarc.info/projects/mmt) theory graphs to encode and represent the knowledge about the world and its logic, whereas we use Unity to create and visualize the virtual world.
+In the FrameIT method, we use [MMT](https://kwarc.info/projects/mmt) theory graphs to
+encode and represent the knowledge about the world and its logic, whereas we use a game
+engine (currently [Unity](https://unity.com); but others are possible) to create and visualize the virtual world.
 The [MMT](https://kwarc.info/projects/mmt) system can then reason about the world and apply the knowledge in concrete situations.
 
 Accordingly, the implementation is split into two parts:
-* the [Unity part](https://github.com/UFrameIT/UFrameIT), which supplies an infrastructure
-  for managing and applying scrolls and gadgets for exploring the 3D world, and
-* the [server](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel), which acts as an interface to the
+* the [UFrameIT Unity Plugin](https://github.com/UFrameIT/UFrameIT), which supplies gadgets that help exploring the 3D world and an infrastructure
+  for managing and applying scrolls, and
+* the [UFrameIT server](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel), which acts as an interface to the
 [MMT system](https://github.com/UniFormal/MMT) and the
 [formalized knowledge](https://gl.mathhub.info/FrameIT)
 
 A particular UFrameIT game instantiates the framework with
-* a 3D World that acts as a game setting and additional gadgets for interacting with it,
+* a virtual world that acts as a game setting, additional gadgets for interacting with it,
   and 
-* an [MMT](https://kwarc.info/projects/mmt) formalization of the concepts conveyed by the
-  game and the scrolls that describe them.
+* an [MMT](https://kwarc.info/projects/mmt) ontology for describing the virtual world, a
+  formalization of the learning goals conveyed by the game, and the scrolls
+  that describe them.
 
 The latter builds on builds on the
 [Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) &mdash; a general-purpose
-formalization of elementary math developed and maintained by the KWARC group.
+formalization of elementary mathematics developed and maintained by the [KWARC group at FAU](https://kwarc.info).
 
 ## UFrameIT Development & Team
 
-The UFrameIT framework and games based on it are open source. They are [developed publically
+The UFrameIT framework and games based on it are open source. They are [developed publicly
 on GitHub](https://github.com/UFrameIT) ([issues](https://github.com/UFrameIT/UFrameIT/issues), [milestones](https://github.com/UFrameIT/UFrameIT/milestones))
 
 We are an open team of developers, please feel free to join.
 
 ### Current Members
 * [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
-* [Richard Marcus](https://kwarc.info/people/rmarcus/) (Unity framework in [UFrameIT][UFrameIT])
-* [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server] and MMT formalizations)
-* John Schihada (Unity gadgets in [UFrameIT][UFrameIT], [mmt-server][mmt-server])
+* [Richard Marcus](https://kwarc.info/people/rmarcus/) ([Unity Plugin][Unity Plugin])
+* [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server], [MMT][MMT] extensions, and MMT formalizations)
+* John Schihada ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
 
 ### Advisors
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
@@ -77,6 +80,7 @@ We are an open team of developers, please feel free to join.
 [MMT]: https://uniformal.github.io/
 [mmt-server]: https://github.com/UniFormal/MMT/tree/devel/src/frameit-mmt
 [UFrameIT]: https://github.com/UFrameIT/UFrameIT
+[Unity Plugin]: https://github.com/UFrameIT/UFrameIT
 
 ## History
 
@@ -109,5 +113,7 @@ The latter is public, too, and you can easily join by authenticating with your G
 
 <!--  LocalWords:  frameit-team frameborder allowfullscreen formalized Navid Schihada
  -->
-<!--  LocalWords:  Stamminger Bösl endfor
+<!--  LocalWords:  Stamminger Bösl endfor the-uframeit-framework-and-serious-games mdash
+ -->
+<!--  LocalWords:  uframeit-development
  -->
