@@ -34,10 +34,10 @@ encode and represent the knowledge about the world and its logic, whereas we use
 engine (currently [Unity](https://unity.com); but others are possible) to create and visualize the virtual world.
 The [MMT](https://kwarc.info/projects/mmt) system can then reason about the world and apply the knowledge in concrete situations.
 
-Accordingly, the implementation is split into two parts:
+Accordingly, the implementation is split into two parts that communicate via a [REST/JSON API](https://github.com/UniFormal/MMT/tree/devel/src/frameit-mmt#rest-api):
 * the [UFrameIT Unity Plugin](https://github.com/UFrameIT/UFrameIT), which supplies gadgets that help exploring the 3D world and an infrastructure
   for managing and applying scrolls, and
-* the [UFrameIT server](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel), which acts as an interface to the
+* the [UFrameIT Server](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel), which acts as an interface to the
 [MMT system](https://github.com/UniFormal/MMT) and the
 [formalized knowledge](https://gl.mathhub.info/FrameIT)
 
