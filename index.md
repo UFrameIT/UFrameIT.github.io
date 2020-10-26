@@ -35,11 +35,11 @@ engine (currently [Unity](https://unity.com); but others are possible) to create
 The [MMT](https://kwarc.info/projects/mmt) system can then reason about the world and apply the knowledge in concrete situations.
 
 Accordingly, the implementation is split into two parts that communicate via a [REST/JSON API](https://github.com/UniFormal/MMT/tree/devel/src/frameit-mmt#rest-api):
-* the [UFrameIT Unity Plugin](https://github.com/UFrameIT/UFrameIT), which supplies gadgets that help exploring the 3D world and an infrastructure
+* the [UFrameIT Unity Plugin][UFrameIT], which supplies gadgets that help exploring the 3D world and an infrastructure
   for managing and applying scrolls, and
-* the [UFrameIT Server](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel), which acts as an interface to the
-[MMT system](https://github.com/UniFormal/MMT) and the
-[formalized knowledge](https://gl.mathhub.info/FrameIT)
+* the [UFrameIT Server][mmt-server], which acts as an interface to the
+[MMT system][MMT] and the
+[formalized knowledge][FrameWorld]
 
 A particular UFrameIT game instantiates the framework with
 * a virtual world that acts as a game setting, additional gadgets for interacting with it,
