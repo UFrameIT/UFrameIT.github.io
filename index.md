@@ -36,17 +36,16 @@ The [MMT](https://kwarc.info/projects/mmt) system can then reason about the worl
 
 Accordingly, the implementation is split into two parts that communicate via a [REST/JSON API](https://github.com/UniFormal/MMT/tree/devel/src/frameit-mmt#rest-api):
 * the [UFrameIT Unity Plugin][UFrameIT], which supplies gadgets that help exploring the 3D world and an infrastructure
-  for managing and applying scrolls, and
-* the [UFrameIT Server][mmt-server], which acts as an interface to the
+  for managing and applying knowledge, and
+* the [FrameIT Server][mmt-server], which acts as an generic, game-engine-independent interface to the
 [MMT system][MMT] and the
-[formalized knowledge][FrameWorld]
+[formalized knowledge][FrameWorld].
 
 A particular UFrameIT game instantiates the framework with
 * a virtual world that acts as a game setting, additional gadgets for interacting with it,
   and 
-* an [MMT](https://kwarc.info/projects/mmt) ontology for describing the virtual world, a
-  formalization of the learning goals conveyed by the game, and the scrolls
-  that describe them.
+* an [MMT](https://kwarc.info/projects/mmt) ontology that describes the virtual world and
+  formalizes the learning goals conveyed by the game.
 
 The latter builds on builds on the
 [Math-in-the-Middle Ontology (MitM)](https://gl.mathhub.info/MitM) &mdash; a general-purpose
