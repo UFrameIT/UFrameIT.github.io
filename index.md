@@ -29,10 +29,10 @@ Built executables of previous releases can be found here: [UFrameIT releases](ht
 
 ## The UFrameIT Framework and Serious Games
 
-In the FrameIT method, we use [MMT](https://kwarc.info/projects/mmt) theory graphs to
+In the FrameIT method, we use [MMT][MMT] theory graphs to
 encode and represent the knowledge about the world and its logic, whereas we use a game
 engine (currently [Unity](https://unity.com); but others are possible) to create and visualize the virtual world.
-The [MMT](https://kwarc.info/projects/mmt) system can then reason about the world and apply the knowledge in concrete situations.
+The [MMT system][MMT] can then reason about the world and apply the knowledge in concrete situations.
 
 Accordingly, the implementation is split into two parts that communicate via a [REST/JSON API](https://github.com/UniFormal/MMT/tree/devel/src/frameit-mmt#rest-api):
 * the [UFrameIT Unity Plugin][UFrameIT], which supplies gadgets that help exploring the 3D world and an infrastructure
