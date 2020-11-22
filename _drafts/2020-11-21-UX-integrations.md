@@ -8,9 +8,9 @@ As a continued result of our [previous standardization and implementation][api-n
 we are now able to expose all new features in our [Unity plugin][unity-plugin].
 These features include:
 
-- string interpolation (todo: simplify)
-- view completion (todo: simplify)
-- hints (todo: simplify)
+- **string interpolation**: when an assignment for a formal parameter is fixed by dragging a fact tile into a scroll, then the name/label of the parameter is replaced everywhere in the scroll. This makes it much easier to keep track of the assignments and the state of application.
+- **view completion**: (todo: simplify)
+- **hints** (todo: simplify)
 
 todo: maybe add screenshots?
 
