@@ -62,7 +62,7 @@ We are an open team of developers, please feel free to join.
 * [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
 * [Richard Marcus](https://kwarc.info/people/rmarcus/) ([Unity Plugin][Unity Plugin])
 * [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server], [MMT][MMT] extensions, and MMT formalizations)
-* John Schihada ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
+* [John Schihada](https://kwarc.info/people/jschihada/) ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
 * Marco Zimmer ([FrameWorld][FrameWorld] levels)
 * Sebastian Weber (Visual Problem Editor)
 * Volodymir Marych (Machine Learning Experiments) 
