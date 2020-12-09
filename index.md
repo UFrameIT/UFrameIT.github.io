@@ -63,6 +63,7 @@ We are an open team of developers, please feel free to join.
 * [Richard Marcus](https://kwarc.info/people/rmarcus/) ([Unity Plugin][Unity Plugin])
 * [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server], [MMT][MMT] extensions, and MMT formalizations)
 * John Schihada ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
+* Marco 
 
 ### Advisors
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
