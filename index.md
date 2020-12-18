@@ -73,6 +73,8 @@ We are an open team of developers, please feel free to join.
   (Graphics/Virtual Worlds)
 * [Prof. Dr. Andrea Kohlhase](https://www.hnu.de/andrea-kohlhase/)
   (Interaction Design and UX)
+ * [Christian Kropfeld](https://www.prime-mesh.de)
+ (Video Editing and Design)
 
 ### Former Members 
 * Benjamin Bösl ([mmt-server][mmt-server], MMT formalizations of [FrameWorld v1][FrameWorld]) 
