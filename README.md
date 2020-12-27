@@ -1,5 +1,8 @@
-Technical directions on adding a blog post
-------------------------------------------
+# The Website <https://uframeit.org/>
+
+This repository contains the source of <https://uframeit.org/>.
+
+## Technical directions on adding a blog post
 
 To add a new blog/news/activity post, create a file in this directory, taking
 the existing files as examples.
