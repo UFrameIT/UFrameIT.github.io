@@ -12,6 +12,8 @@ The release aggregates new features, UI improvements, and many bug fixes &mdash;
 
 - Dynamic labels for fact slots of a scroll
 
+  ![alt text](img/uframeit-3.0-hint-feature.png)
+
   Consider the sample scroll in the screenshot. It offers slots for three points "A", "B", "C" and some corresponding angles (C, ABC) and a distance (BC).
   If you now assign points "D", "A", "E" to the point slots, the labels of these slots *and* of the other ones are updated to reflect that.
   In particular, what was previously labeled "BC" is now "AE", and what was "ABC" is now "DAE".
