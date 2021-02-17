@@ -56,7 +56,7 @@ formalization of elementary mathematics developed and maintained by the [KWARC g
 ## UFrameIT Development & Team
 
 The UFrameIT framework and games based on it are open source. They are [developed publicly
-on GitHub](https://github.com/UFrameIT) ([issues](https://github.com/UFrameIT/UFrameIT/issues), [milestones](https://github.com/UFrameIT/UFrameIT/milestones))
+on GitHub](https://github.com/UFrameIT) ([documentation](https://github.com/UFrameIT/UFrameIT/blob/master/README.md), [issues](https://github.com/UFrameIT/UFrameIT/issues), [milestones](https://github.com/UFrameIT/UFrameIT/milestones))
 
 We are an open team of developers, please feel free to join.
 
