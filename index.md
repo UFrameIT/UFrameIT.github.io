@@ -89,6 +89,7 @@ We are an open team of developers, please feel free to join.
 [Unity Plugin]: https://github.com/UFrameIT/UFrameIT
 
 ## How to contribute
+* [Publications](https://kwarc.github.io/bibs/frameit/)
 
 ### UFrameIT Unity Plugin
 * [Installation Guide](https://github.com/UFrameIT/UFrameIT/blob/master/README.md)
