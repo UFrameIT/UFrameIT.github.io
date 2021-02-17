@@ -88,6 +88,21 @@ We are an open team of developers, please feel free to join.
 [UFrameIT]: https://github.com/UFrameIT/UFrameIT
 [Unity Plugin]: https://github.com/UFrameIT/UFrameIT
 
+## How to contribute
+
+### UFrameIT Unity Plugin
+* [Installation Guide](https://github.com/UFrameIT/UFrameIT/blob/master/README.md)
+### FrameIT Server
+* [Installation Guide](https://github.com/UniFormal/MMT/blob/master/src/frameit-mmt/installation.md)
+* [Documentation](https://github.com/UniFormal/MMT/blob/master/src/frameit-mmt/README.md)
+* [FrameIT Server Request Examples](https://documenter.getpostman.com/view/9866886/TVK5c1nG)
+* [MMT API Documentation](https://uniformal.github.io//doc/api/)
+### Formalized Knowledge
+* [Installation guide](https://github.com/UFrameIT/archives/blob/master/README.md)
+* [How to write a Scroll](https://gl.mathhub.info/FrameIT/frameworld/-/tree/devel/source/Scrolls)
+* [MMT Language Documentation](https://uniformal.github.io//doc/language/)
+* [MMT Tutorials](https://uniformal.github.io//doc/tutorials/)
+
 ## History
 
 #### The [Jacobs University](https://jacobs-university.de) Phase
