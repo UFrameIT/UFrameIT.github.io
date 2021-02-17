@@ -29,6 +29,8 @@ Built executables of previous releases can be found here: [UFrameIT releases](ht
 
 ## The UFrameIT Framework and Serious Games
 
+<img src="img/UFrameIT-Architecture-Diagram.png" alt="UFrameIT Architecture" class="inline"/>
+
 In the FrameIT method, we use [MMT][MMT] theory graphs to
 encode and represent the knowledge about the world and its logic, whereas we use a game
 engine (currently [Unity](https://unity.com); but others are possible) to create and visualize the virtual world.
