@@ -67,6 +67,7 @@ We are an open team of developers, please feel free to join.
 * [John Schihada](https://kwarc.info/people/jschihada/) ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
 * Marco Zimmer ([FrameWorld][FrameWorld] levels)
 * Sebastian Weber (Visual Problem Editor)
+* Stefan Richter (Android Port)
 * Volodymir Marych (Machine Learning Experiments) 
 
 ### Advisors
