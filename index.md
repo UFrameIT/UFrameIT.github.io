@@ -64,11 +64,12 @@ We are an open team of developers, please feel free to join.
 * [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
 * [Richard Marcus](https://kwarc.info/people/rmarcus/) ([Unity Plugin][Unity Plugin])
 * [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server], [MMT][MMT] extensions, and MMT formalizations)
-* [John Schihada](https://kwarc.info/people/jschihada/) ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
 * Marco Zimmer ([FrameWorld][FrameWorld] levels)
-* Sebastian Weber (Visual Problem Editor)
 * Stefan Richter (Android Port)
-* Volodymir Marych (Machine Learning Experiments) 
+* Tobias Schöner
+* Jakob Holdinghausen
+* Björn Eßwein
+
 
 ### Advisors
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
@@ -82,6 +83,10 @@ We are an open team of developers, please feel free to join.
 ### Former Members 
 * Benjamin Bösl ([mmt-server][mmt-server], MMT formalizations of [FrameWorld v1][FrameWorld]) 
 * Denis Rochau (first Unreal-based FrameIT implementation) 
+* [John Schihada](https://kwarc.info/people/jschihada/) ([Unity Plugin][Unity Plugin], [mmt-server][mmt-server])
+* Sebastian Weber (Visual Problem Editor)
+* Marcel Dreier (Volume Formalizations)
+* Mark Tintemann (Advanced Gearbox Logics)
 
 [FrameWorld]: https://gl.mathhub.info/FrameIT/frameworld
 [MMT]: https://uniformal.github.io/
