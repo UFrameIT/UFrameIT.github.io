@@ -125,9 +125,7 @@ After a long period, where students with graphics and game development expertise
 To contact a human: reach out to [Michael Kohlhase](https://kwarc.info/kohlhase).
 
 Feel free to raise an issue at our
-[UFrameIT/UFrameIT repository](https://github.com/UFrameIT/UFrameIT/issues) or a question
-on our [Mattermost FrameIT channel](https://mattermost.kwarc.info/kwarc/channels/frameit).
-The latter is public, too, and you can easily join by authenticating with your GitHub account once.
+[UFrameIT/UFrameIT repository](https://github.com/UFrameIT/UFrameIT/issues).
 
 <!--  LocalWords:  frameit-team frameborder allowfullscreen formalized Navid Schihada
  -->
