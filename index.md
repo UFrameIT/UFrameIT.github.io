@@ -62,14 +62,10 @@ We are an open team of developers, please feel free to join.
 
 ### Current Members
 * [Prof. Dr. Michael Kohlhase](https://kwarc.info/people/mkohlhase/) (lead; enjoys the demos) 
-* [Richard Marcus](https://kwarc.info/people/rmarcus/) ([Unity Plugin][Unity Plugin])
+* [Richard Marcus](https://kwarc.info/people/rmarcus/) (Supervision, [Unity Plugin][Unity Plugin])
 * [Navid Roux](https://kwarc.info/people/nroux/) ([mmt-server][mmt-server], [MMT][MMT] extensions, and MMT formalizations)
-* Marco Zimmer ([FrameWorld][FrameWorld] levels)
-* Stefan Richter (Android Port)
-* Tobias Schöner
-* Jakob Holdinghausen
-* Björn Eßwein
-
+* Stefan Richter (Android Port & Multiplayer Implementation)
+* Silas Kuder (Problem Interaction Rework)
 
 ### Advisors
 * [Dennis Müller](https://kwarc.info/people/dmueller/) ([MMT][MMT] and Formalization Guru)
@@ -87,6 +83,14 @@ We are an open team of developers, please feel free to join.
 * Sebastian Weber (Visual Problem Editor)
 * Marcel Dreier (Volume Formalizations)
 * Mark Tintemann (Advanced Gearbox Logics)
+* Marco Zimmer ([FrameWorld][FrameWorld] levels & System Rework)
+* Tobias Schöner (Immersive UI & VR)
+* Paul Walcher (Geometry Models)
+* Marius Kern (Geometry Models)
+* Mark Waschkeit (Gradient Models)
+* Andreas Gräfensteiner (Linear Equations)
+* Björn Eßwein (Unity HTML/MathML Rendering)
+
 
 [FrameWorld]: https://gl.mathhub.info/FrameIT/frameworld
 [MMT]: https://uniformal.github.io/
